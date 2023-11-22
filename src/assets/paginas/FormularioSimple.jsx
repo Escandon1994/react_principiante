@@ -22,6 +22,8 @@ const FormularioSimple = () => {
     console.log(apellido)
 
   }
+  
+
 
   return (
     <>
